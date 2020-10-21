@@ -1,6 +1,6 @@
 
 # README.MD
-Este proyecto es el repositorio de la web de de una empresa colombiana dedicada al mantenimiento y fabricacion de equipos.
+Este proyecto es el repositorio de la web de una empresa colombiana dedicada al mantenimiento y fabricacion de equipos.
 
 ## Contenido
 Este repositorio solo contiene una rama **master**
